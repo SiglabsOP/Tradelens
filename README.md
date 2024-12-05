@@ -179,6 +179,9 @@ For additional help or support, visit [our website](https://peterdeceuster.uk) o
 
 Thank you for using TradeLens!
 
+![Screenshot 2024-12-05 231911](https://github.com/user-attachments/assets/fed528d5-7432-441d-9673-705a0090a3a0)
+![Screenshot 2024-12-05 231925](https://github.com/user-attachments/assets/9b401cb0-205f-493c-a3c8-1d5199b7dea4)
+![Screenshot 2024-12-05 232301](https://github.com/user-attachments/assets/573c81ba-c40a-4b95-a39f-bc16f155737e)
 
 
 (c) Peter De Ceuster 2024
